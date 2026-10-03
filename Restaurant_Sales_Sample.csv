@@ -1,0 +1,250 @@
+Order ID,Customer ID,Category,Item,Price,Quantity,Order Total,Order Date,Payment Method
+ORD_705844,CUST_092,Side Dishes,Side Salad,3.0,1.0,3.0,2023-12-21,Credit Card
+ORD_338528,CUST_021,Side Dishes,Mashed Potatoes,4.0,3.0,12.0,2023-05-19,Digital Wallet
+ORD_443849,CUST_029,Main Dishes,Grilled Chicken,15.0,4.0,60.0,2023-09-27,Credit Card
+ORD_630508,CUST_075,Drinks,,,2.0,5.0,2022-08-09,Credit Card
+ORD_648269,CUST_031,Main Dishes,Pasta Alfredo,12.0,4.0,48.0,2022-05-15,Cash
+ORD_381680,CUST_031,Main Dishes,Salmon,18.0,5.0,90.0,2022-07-20,Digital Wallet
+ORD_270994,CUST_071,Side Dishes,Garlic Bread,4.0,5.0,20.0,2022-08-19,Credit Card
+ORD_146656,CUST_077,Main Dishes,,15.0,3.0,45.0,2023-02-15,Cash
+ORD_428611,CUST_083,Desserts,,6.0,2.0,12.0,2023-12-16,Cash
+ORD_743636,CUST_085,Main Dishes,Vegetarian Platter,14.0,5.0,70.0,2022-08-07,
+ORD_117003,CUST_021,Desserts,Brownie,6.0,2.0,12.0,2023-12-09,Credit Card
+ORD_726419,CUST_025,Main Dishes,Salmon,18.0,5.0,90.0,2023-10-30,Cash
+ORD_754176,CUST_047,Main Dishes,Salmon,18.0,1.0,18.0,2023-04-11,Cash
+ORD_330351,CUST_057,Starters,Sweet Potato Fries,5.0,4.0,20.0,2023-08-18,Credit Card
+ORD_458560,CUST_017,Side Dishes,Mashed Potatoes,4.0,3.0,12.0,2022-06-08,Cash
+ORD_639569,CUST_024,Drinks,Lemonade,3.0,2.0,6.0,2022-08-28,Cash
+ORD_736695,CUST_067,Main Dishes,Grilled Chicken,15.0,3.0,45.0,2022-05-01,Digital Wallet
+ORD_283207,CUST_090,Side Dishes,Side Salad,3.0,2.0,6.0,2023-09-01,Digital Wallet
+ORD_337802,CUST_034,Desserts,,4.0,5.0,20.0,2022-11-13,Credit Card
+ORD_744179,CUST_009,Desserts,Brownie,6.0,3.0,18.0,2023-06-08,Credit Card
+ORD_845047,CUST_052,Main Dishes,Vegetarian Platter,14.0,4.0,56.0,2023-02-21,Digital Wallet
+ORD_862247,CUST_071,Side Dishes,Side Salad,3.0,4.0,12.0,2023-02-01,Credit Card
+ORD_356735,CUST_055,Main Dishes,Salmon,18.0,4.0,72.0,2023-05-09,Credit Card
+ORD_333540,CUST_055,Drinks,Orange Juice,3.0,4.0,12.0,2023-09-14,Digital Wallet
+ORD_415215,CUST_094,Desserts,Chocolate Cake,6.0,5.0,30.0,2023-03-18,Cash
+ORD_375110,CUST_041,Drinks,Coca Cola,2.5,1.0,2.5,2023-05-18,Digital Wallet
+ORD_117414,CUST_055,Side Dishes,Grilled Vegetables,5.0,4.0,20.0,2023-09-05,Credit Card
+ORD_918434,CUST_096,Main Dishes,Vegetarian Platter,14.0,3.0,42.0,2022-02-02,Digital Wallet
+ORD_220701,CUST_040,Drinks,Coca Cola,2.5,4.0,10.0,2023-07-30,Digital Wallet
+ORD_647762,CUST_021,Main Dishes,Pasta Alfredo,12.0,1.0,12.0,2023-01-31,Credit Card
+ORD_427480,CUST_052,Starters,Cheese Fries,5.0,1.0,5.0,2023-02-28,Cash
+ORD_225136,CUST_008,Starters,Cheese Fries,5.0,3.0,15.0,2022-11-19,Cash
+ORD_791116,CUST_007,Desserts,Chocolate Cake,6.0,4.0,24.0,2023-05-03,Digital Wallet
+ORD_418736,CUST_091,Starters,Beef Chili,7.0,5.0,35.0,2023-04-20,Cash
+ORD_438442,CUST_011,Side Dishes,Grilled Vegetables,5.0,5.0,25.0,2023-09-18,Credit Card
+ORD_193762,CUST_028,Main Dishes,,18.0,5.0,90.0,2022-04-08,
+ORD_300241,CUST_040,Starters,Chicken Melt,8.0,4.0,32.0,2023-07-29,Credit Card
+ORD_130258,CUST_042,Desserts,Brownie,6.0,2.0,12.0,2023-10-16,Cash
+ORD_893229,CUST_049,Main Dishes,Pasta Alfredo,12.0,2.0,24.0,2022-02-09,Cash
+ORD_175452,CUST_053,Drinks,Lemonade,3.0,3.0,9.0,2023-08-17,Digital Wallet
+ORD_280294,CUST_008,Desserts,Fruit Salad,4.0,2.0,8.0,2022-04-13,Digital Wallet
+ORD_708630,CUST_081,Main Dishes,Pasta Alfredo,12.0,1.0,12.0,2023-07-21,Credit Card
+ORD_479066,CUST_054,Starters,French Fries,4.0,4.0,16.0,2023-12-03,Digital Wallet
+ORD_120337,CUST_093,Main Dishes,Grilled Chicken,15.0,4.0,60.0,2023-09-16,Credit Card
+ORD_152465,CUST_071,Starters,Chicken Melt,8.0,1.0,8.0,2023-02-11,Cash
+ORD_108842,CUST_031,Starters,Sweet Potato Fries,5.0,2.0,10.0,2023-02-05,Credit Card
+ORD_473682,CUST_014,Drinks,Coca Cola,2.5,2.0,5.0,2022-01-16,Credit Card
+ORD_330617,CUST_088,Desserts,Ice Cream,5.0,3.0,15.0,2023-11-21,Cash
+ORD_155188,CUST_084,Side Dishes,Mashed Potatoes,4.0,4.0,16.0,2022-10-08,Digital Wallet
+ORD_640883,CUST_057,Desserts,Cheesecake,7.0,1.0,7.0,2023-03-01,Cash
+ORD_650189,CUST_013,Desserts,Chocolate Cake,6.0,1.0,6.0,2023-05-23,Cash
+ORD_782727,CUST_066,Starters,,4.0,4.0,16.0,2022-08-11,Digital Wallet
+ORD_625401,CUST_100,Side Dishes,Mashed Potatoes,4.0,4.0,16.0,2022-08-03,Cash
+ORD_418032,CUST_094,Main Dishes,Grilled Chicken,15.0,3.0,45.0,2022-12-20,Credit Card
+ORD_763806,CUST_078,Main Dishes,Grilled Chicken,15.0,2.0,30.0,2022-09-12,Credit Card
+ORD_578794,CUST_098,Side Dishes,Grilled Vegetables,5.0,5.0,25.0,2022-06-24,Cash
+ORD_208139,CUST_004,Desserts,Cheesecake,7.0,1.0,7.0,2023-08-04,Cash
+ORD_864219,CUST_040,Side Dishes,Mashed Potatoes,4.0,4.0,16.0,2022-03-11,Credit Card
+ORD_828507,CUST_090,Drinks,Iced Tea,2.5,5.0,12.5,2023-09-28,Credit Card
+ORD_696101,CUST_035,Side Dishes,Grilled Vegetables,5.0,2.0,10.0,2022-08-12,Cash
+ORD_136075,CUST_080,Starters,Chicken Melt,8.0,3.0,24.0,2023-01-23,Credit Card
+ORD_882768,CUST_020,Starters,Sweet Potato Fries,5.0,2.0,10.0,2023-07-08,Credit Card
+ORD_237978,CUST_007,Main Dishes,Pasta Alfredo,12.0,3.0,36.0,2022-12-07,Cash
+ORD_728161,CUST_038,Starters,Sweet Potato Fries,5.0,4.0,20.0,2023-08-01,Digital Wallet
+ORD_270218,CUST_037,Main Dishes,Grilled Chicken,15.0,5.0,75.0,2023-06-30,Digital Wallet
+ORD_387616,CUST_085,Main Dishes,Grilled Chicken,15.0,3.0,45.0,2022-05-27,Cash
+ORD_205058,CUST_043,Side Dishes,Mashed Potatoes,4.0,5.0,20.0,2022-04-07,Credit Card
+ORD_761221,CUST_034,Drinks,Iced Tea,2.5,2.0,5.0,2022-10-02,Cash
+ORD_514854,CUST_060,Drinks,Orange Juice,3.0,2.0,6.0,2023-06-01,Credit Card
+ORD_727365,CUST_036,Side Dishes,Garlic Bread,4.0,5.0,20.0,2023-05-24,Credit Card
+ORD_837763,CUST_042,Side Dishes,Mashed Potatoes,4.0,4.0,16.0,2023-04-01,Digital Wallet
+ORD_176616,CUST_051,Side Dishes,Garlic Bread,4.0,2.0,8.0,2023-01-19,Cash
+ORD_805646,CUST_001,Starters,French Fries,4.0,5.0,20.0,2022-08-18,Cash
+ORD_771998,CUST_070,Drinks,Water,1.0,4.0,4.0,2022-01-11,
+ORD_343882,CUST_020,Side Dishes,Side Salad,3.0,5.0,15.0,2022-05-13,Credit Card
+ORD_367023,CUST_055,Side Dishes,,,,,2022-05-29,
+ORD_444692,CUST_045,Side Dishes,Side Salad,3.0,5.0,15.0,2022-07-15,Cash
+ORD_500318,CUST_024,Starters,Chicken Melt,8.0,5.0,40.0,2023-06-07,Cash
+ORD_854529,CUST_096,Desserts,,6.0,2.0,12.0,2022-07-08,Credit Card
+ORD_275854,CUST_033,Desserts,Ice Cream,5.0,2.0,10.0,2022-10-28,Credit Card
+ORD_323443,CUST_041,Desserts,Chocolate Cake,6.0,3.0,18.0,2022-09-15,Cash
+ORD_877261,CUST_036,Drinks,Coca Cola,2.5,1.0,2.5,2023-03-30,Credit Card
+ORD_170375,CUST_021,Side Dishes,Side Salad,3.0,2.0,6.0,2023-04-13,Digital Wallet
+ORD_167858,CUST_056,Side Dishes,,,5.0,25.0,2022-04-01,Cash
+ORD_177847,CUST_066,Side Dishes,Mashed Potatoes,4.0,3.0,12.0,2022-01-11,Digital Wallet
+ORD_539782,CUST_060,Side Dishes,Grilled Vegetables,5.0,1.0,5.0,2022-03-28,Credit Card
+ORD_106904,CUST_082,Desserts,Ice Cream,5.0,1.0,5.0,2022-11-13,Digital Wallet
+ORD_772436,CUST_031,Drinks,Coca Cola,2.5,4.0,10.0,2023-01-28,Digital Wallet
+ORD_218145,CUST_005,Side Dishes,Mashed Potatoes,4.0,4.0,16.0,2022-12-07,Credit Card
+ORD_440469,CUST_080,Main Dishes,Pasta Alfredo,12.0,3.0,36.0,2022-11-14,Cash
+ORD_104960,CUST_040,Main Dishes,Pasta Alfredo,12.0,1.0,12.0,2022-07-27,Digital Wallet
+ORD_104466,CUST_050,Drinks,Orange Juice,3.0,1.0,3.0,2022-05-25,Cash
+ORD_631686,CUST_099,Main Dishes,Pasta Alfredo,12.0,2.0,24.0,2022-10-02,Credit Card
+ORD_778015,CUST_089,Main Dishes,Pasta Alfredo,12.0,1.0,12.0,2023-08-15,Credit Card
+ORD_301667,CUST_029,Desserts,Brownie,6.0,3.0,18.0,2023-09-01,Digital Wallet
+ORD_871279,CUST_045,Main Dishes,Pasta Alfredo,12.0,5.0,60.0,2022-02-05,Digital Wallet
+ORD_302668,CUST_026,Main Dishes,Grilled Chicken,15.0,3.0,45.0,2022-02-18,Cash
+ORD_161991,CUST_048,Starters,Beef Chili,7.0,5.0,35.0,2023-07-27,Cash
+ORD_761978,CUST_056,Main Dishes,Grilled Chicken,15.0,2.0,30.0,2023-03-10,Digital Wallet
+ORD_181882,CUST_062,Desserts,Chocolate Cake,6.0,3.0,18.0,2023-05-10,Cash
+ORD_696255,CUST_055,Starters,Nachos Grande,10.0,1.0,10.0,2022-07-29,Digital Wallet
+ORD_749532,CUST_063,Drinks,Water,1.0,5.0,5.0,2023-02-26,Credit Card
+ORD_378802,CUST_094,Side Dishes,Garlic Bread,4.0,4.0,16.0,2023-03-24,Digital Wallet
+ORD_537413,CUST_036,Starters,Beef Chili,7.0,2.0,14.0,2023-08-22,Digital Wallet
+ORD_820759,CUST_034,Drinks,Orange Juice,3.0,3.0,9.0,2023-03-09,Credit Card
+ORD_190938,CUST_038,Starters,Beef Chili,7.0,2.0,14.0,2023-06-10,Digital Wallet
+ORD_490302,CUST_097,Main Dishes,Pasta Alfredo,12.0,3.0,36.0,2023-10-29,Cash
+ORD_322835,CUST_012,Drinks,Orange Juice,3.0,1.0,3.0,2022-10-14,Cash
+ORD_361022,CUST_068,Drinks,Coca Cola,2.5,5.0,12.5,2023-11-26,
+ORD_991912,CUST_019,Drinks,Iced Tea,2.5,5.0,12.5,2022-03-24,Cash
+ORD_396448,CUST_074,Drinks,Water,1.0,2.0,2.0,2023-11-22,Credit Card
+ORD_515941,CUST_095,Starters,French Fries,4.0,5.0,20.0,2023-01-21,Digital Wallet
+ORD_289733,CUST_057,Drinks,,,5.0,5.0,2022-01-05,
+ORD_684439,CUST_068,Starters,Cheese Fries,5.0,1.0,5.0,2023-05-26,Cash
+ORD_904504,CUST_093,Side Dishes,Grilled Vegetables,5.0,4.0,20.0,2022-09-29,Cash
+ORD_560561,CUST_013,Side Dishes,Onion Rings,5.0,1.0,5.0,2022-05-30,Digital Wallet
+ORD_165348,CUST_073,Desserts,Ice Cream,5.0,4.0,20.0,2023-09-01,Cash
+ORD_110621,CUST_061,Drinks,Iced Tea,2.5,2.0,5.0,2023-02-13,Digital Wallet
+ORD_627458,CUST_058,Side Dishes,,,,,2023-08-24,Digital Wallet
+ORD_142238,CUST_082,Side Dishes,Grilled Vegetables,5.0,4.0,20.0,2022-12-31,Credit Card
+ORD_356583,CUST_037,Desserts,Ice Cream,5.0,2.0,10.0,2022-12-09,Credit Card
+ORD_357330,CUST_023,Main Dishes,Grilled Chicken,15.0,5.0,75.0,2022-01-01,Digital Wallet
+ORD_363522,CUST_070,Starters,,,1.0,8.0,2023-05-07,Credit Card
+ORD_167242,CUST_050,Desserts,,6.0,3.0,18.0,2023-11-10,Digital Wallet
+ORD_298049,CUST_013,Drinks,Orange Juice,3.0,4.0,12.0,2023-04-03,Credit Card
+ORD_439041,CUST_029,Main Dishes,Steak,20.0,3.0,60.0,2022-12-24,Digital Wallet
+ORD_714187,CUST_026,Desserts,Chocolate Cake,6.0,3.0,18.0,2022-11-22,Digital Wallet
+ORD_719718,CUST_037,Desserts,Brownie,6.0,2.0,12.0,2023-04-19,Cash
+ORD_333412,CUST_089,Main Dishes,Pasta Alfredo,12.0,5.0,60.0,2022-01-06,Digital Wallet
+ORD_809926,CUST_034,Starters,Cheese Fries,5.0,3.0,15.0,2022-04-13,Cash
+ORD_100517,CUST_074,Starters,Chicken Melt,8.0,5.0,40.0,2023-05-23,Credit Card
+ORD_467157,CUST_099,Drinks,,,,,2023-11-30,
+ORD_203174,CUST_094,Desserts,Fruit Salad,4.0,3.0,12.0,2022-08-09,Credit Card
+ORD_363633,CUST_076,Side Dishes,Garlic Bread,4.0,5.0,20.0,2023-04-22,Credit Card
+ORD_369689,CUST_058,Starters,Sweet Potato Fries,5.0,1.0,5.0,2022-12-28,Cash
+ORD_150300,CUST_011,Desserts,Fruit Salad,4.0,1.0,4.0,2022-03-27,Digital Wallet
+ORD_838505,CUST_029,Desserts,Chocolate Cake,6.0,1.0,6.0,2023-07-27,Cash
+ORD_626227,CUST_038,Desserts,Ice Cream,5.0,1.0,5.0,2022-03-04,Credit Card
+ORD_410162,CUST_054,Starters,Cheese Fries,5.0,2.0,10.0,2023-03-29,Digital Wallet
+ORD_540613,CUST_042,Drinks,Lemonade,3.0,5.0,15.0,2023-06-18,Digital Wallet
+ORD_715554,CUST_029,Side Dishes,Side Salad,3.0,2.0,6.0,2022-06-02,Credit Card
+ORD_868890,CUST_007,Main Dishes,,12.0,1.0,12.0,2022-10-28,Digital Wallet
+ORD_199989,CUST_068,Starters,Chicken Melt,8.0,5.0,40.0,2022-10-27,Credit Card
+ORD_893713,CUST_089,Side Dishes,Grilled Vegetables,5.0,5.0,25.0,2022-09-22,Digital Wallet
+ORD_780854,CUST_097,Side Dishes,Side Salad,3.0,3.0,9.0,2022-10-01,Digital Wallet
+ORD_389349,CUST_028,Starters,French Fries,4.0,4.0,16.0,2023-06-07,Cash
+ORD_499199,CUST_079,Desserts,,,5.0,25.0,2022-02-12,Digital Wallet
+ORD_102108,CUST_049,Drinks,,2.5,3.0,7.5,2022-08-15,
+ORD_299419,CUST_061,Main Dishes,Vegetarian Platter,14.0,5.0,70.0,2022-04-24,Cash
+ORD_386546,CUST_093,Main Dishes,Steak,20.0,3.0,60.0,2023-04-10,Digital Wallet
+ORD_932686,CUST_070,Drinks,Lemonade,3.0,2.0,6.0,2022-06-28,Digital Wallet
+ORD_443479,CUST_099,Desserts,Ice Cream,5.0,4.0,20.0,2022-06-22,Cash
+ORD_232289,CUST_096,Desserts,Brownie,6.0,4.0,24.0,2022-11-14,Credit Card
+ORD_167843,CUST_034,Drinks,Lemonade,3.0,5.0,15.0,2023-12-25,Credit Card
+ORD_970834,CUST_008,Desserts,Cheesecake,7.0,4.0,28.0,2023-03-14,Cash
+ORD_731848,CUST_067,Drinks,Coca Cola,2.5,2.0,5.0,2023-11-11,Digital Wallet
+ORD_999772,CUST_017,Main Dishes,Salmon,18.0,2.0,36.0,2023-02-08,Credit Card
+ORD_728803,CUST_075,Side Dishes,Grilled Vegetables,5.0,5.0,25.0,2022-08-06,Credit Card
+ORD_412456,CUST_002,Main Dishes,Grilled Chicken,15.0,4.0,60.0,2023-12-11,Digital Wallet
+ORD_118449,CUST_018,Starters,Beef Chili,7.0,5.0,35.0,2022-07-13,Credit Card
+ORD_436035,CUST_028,Main Dishes,Vegetarian Platter,14.0,5.0,70.0,2023-12-08,Cash
+ORD_857634,CUST_051,Side Dishes,,4.0,5.0,20.0,2022-06-13,Credit Card
+ORD_368238,CUST_086,Drinks,,1.0,3.0,3.0,2023-10-15,Cash
+ORD_888237,CUST_053,Starters,Nachos Grande,10.0,5.0,50.0,2023-02-07,Credit Card
+ORD_970805,CUST_051,Side Dishes,Side Salad,3.0,3.0,9.0,2022-02-26,Digital Wallet
+ORD_869228,CUST_099,Drinks,Water,1.0,3.0,3.0,2022-12-05,Credit Card
+ORD_144043,CUST_004,Side Dishes,Side Salad,3.0,4.0,12.0,2022-07-22,Digital Wallet
+ORD_572727,CUST_099,Side Dishes,Onion Rings,5.0,1.0,5.0,2023-06-11,Cash
+ORD_616642,CUST_043,Side Dishes,Grilled Vegetables,5.0,1.0,5.0,2023-07-16,Cash
+ORD_132964,CUST_077,Side Dishes,Mashed Potatoes,4.0,2.0,8.0,2023-12-07,Cash
+ORD_764058,CUST_043,Main Dishes,Grilled Chicken,15.0,3.0,45.0,2023-05-21,Digital Wallet
+ORD_387901,CUST_029,Desserts,Ice Cream,5.0,5.0,25.0,2022-06-16,Cash
+ORD_818249,CUST_027,Side Dishes,Grilled Vegetables,5.0,5.0,25.0,2022-04-16,Credit Card
+ORD_732450,CUST_004,Side Dishes,Side Salad,3.0,4.0,12.0,2022-12-19,Cash
+ORD_827783,CUST_081,Drinks,Lemonade,3.0,2.0,6.0,2023-06-25,
+ORD_609102,CUST_074,Drinks,Iced Tea,2.5,5.0,12.5,2022-10-13,Cash
+ORD_649423,CUST_093,Starters,French Fries,4.0,1.0,4.0,2023-09-05,Digital Wallet
+ORD_786734,CUST_050,Desserts,Chocolate Cake,6.0,3.0,18.0,2022-10-16,Credit Card
+ORD_955347,CUST_022,Starters,Cheese Fries,5.0,3.0,15.0,2023-02-03,Credit Card
+ORD_921409,CUST_042,Side Dishes,Garlic Bread,4.0,1.0,4.0,2023-10-11,Digital Wallet
+ORD_791067,CUST_052,Desserts,Fruit Salad,4.0,3.0,12.0,2023-04-10,Credit Card
+ORD_433088,CUST_019,Desserts,Ice Cream,5.0,5.0,25.0,2023-07-08,Cash
+ORD_816679,CUST_023,Starters,French Fries,4.0,5.0,20.0,2022-08-03,Credit Card
+ORD_669233,CUST_013,Drinks,Orange Juice,3.0,5.0,15.0,2022-11-17,Credit Card
+ORD_573239,CUST_001,Drinks,Water,1.0,2.0,2.0,2022-09-10,Digital Wallet
+ORD_771190,CUST_059,Main Dishes,Pasta Alfredo,12.0,5.0,60.0,2023-09-08,
+ORD_479445,CUST_083,Starters,,4.0,3.0,12.0,2023-11-27,Cash
+ORD_589811,CUST_002,Starters,Cheese Fries,5.0,5.0,25.0,2022-05-03,Credit Card
+ORD_794099,CUST_045,Main Dishes,Steak,20.0,3.0,60.0,2022-09-26,Cash
+ORD_735135,CUST_033,Side Dishes,Mashed Potatoes,4.0,1.0,4.0,2022-05-28,Digital Wallet
+ORD_711010,CUST_062,Side Dishes,,5.0,1.0,5.0,2022-05-11,Digital Wallet
+ORD_729374,CUST_085,Starters,French Fries,4.0,4.0,16.0,2022-04-07,Cash
+ORD_999939,CUST_033,Side Dishes,Mashed Potatoes,4.0,3.0,12.0,2022-11-26,Digital Wallet
+ORD_153415,CUST_063,Main Dishes,Pasta Alfredo,12.0,3.0,36.0,2022-04-12,Digital Wallet
+ORD_224730,CUST_026,Desserts,Chocolate Cake,6.0,5.0,30.0,2023-12-14,Digital Wallet
+ORD_930569,CUST_036,Starters,Cheese Fries,5.0,3.0,15.0,2022-09-16,Digital Wallet
+ORD_321522,CUST_001,Side Dishes,Mashed Potatoes,4.0,2.0,8.0,2022-11-20,Cash
+ORD_359077,CUST_010,Drinks,Lemonade,3.0,2.0,6.0,2023-05-27,Credit Card
+ORD_546027,CUST_092,Desserts,Chocolate Cake,6.0,4.0,24.0,2022-09-03,Digital Wallet
+ORD_642702,CUST_082,Desserts,Brownie,6.0,2.0,12.0,2023-06-22,Credit Card
+ORD_217030,CUST_021,Starters,Chicken Melt,8.0,4.0,32.0,2023-05-28,Cash
+ORD_206617,CUST_057,Starters,Sweet Potato Fries,5.0,3.0,15.0,2022-12-06,Cash
+ORD_211904,CUST_093,Side Dishes,Garlic Bread,4.0,3.0,12.0,2022-04-29,Cash
+ORD_907068,CUST_090,Side Dishes,Mashed Potatoes,4.0,2.0,8.0,2022-03-18,Cash
+ORD_566939,CUST_076,Desserts,Fruit Salad,4.0,5.0,20.0,2022-04-11,Digital Wallet
+ORD_204681,CUST_038,Main Dishes,Steak,20.0,3.0,60.0,2022-07-04,Digital Wallet
+ORD_986358,CUST_017,Main Dishes,Salmon,18.0,2.0,36.0,2022-10-01,Credit Card
+ORD_230233,CUST_088,Desserts,Fruit Salad,4.0,2.0,8.0,2023-02-13,Cash
+ORD_455253,CUST_095,Side Dishes,Mashed Potatoes,4.0,5.0,20.0,2023-08-04,Cash
+ORD_308575,CUST_075,Desserts,,5.0,2.0,10.0,2023-01-06,Cash
+ORD_929630,CUST_061,Desserts,Fruit Salad,4.0,3.0,12.0,2023-09-14,Credit Card
+ORD_718213,CUST_021,Side Dishes,Side Salad,3.0,5.0,15.0,2022-05-14,Cash
+ORD_101531,CUST_095,Desserts,Brownie,6.0,4.0,24.0,2022-12-14,Credit Card
+ORD_952936,CUST_075,Drinks,Orange Juice,3.0,1.0,3.0,2022-07-01,Cash
+ORD_979463,CUST_066,Main Dishes,Grilled Chicken,15.0,2.0,30.0,2022-10-03,Digital Wallet
+ORD_192273,CUST_015,Main Dishes,Steak,20.0,4.0,80.0,2023-05-26,
+ORD_921148,CUST_051,Desserts,Cheesecake,7.0,3.0,21.0,2023-10-25,Cash
+ORD_147356,CUST_081,Starters,Chicken Melt,8.0,5.0,40.0,2022-03-13,Digital Wallet
+ORD_588485,CUST_028,Main Dishes,Grilled Chicken,15.0,3.0,45.0,2023-04-27,Digital Wallet
+ORD_495079,CUST_081,Side Dishes,Side Salad,3.0,1.0,3.0,2023-05-06,Credit Card
+ORD_535705,CUST_051,Drinks,Lemonade,3.0,2.0,6.0,2022-11-19,Cash
+ORD_242945,CUST_004,Drinks,Water,1.0,5.0,5.0,2023-02-26,Digital Wallet
+ORD_542737,CUST_021,Desserts,Chocolate Cake,6.0,3.0,18.0,2023-01-09,Credit Card
+ORD_976297,CUST_054,Side Dishes,Side Salad,3.0,1.0,3.0,2022-06-13,Digital Wallet
+ORD_943942,CUST_068,Main Dishes,Pasta Alfredo,12.0,4.0,48.0,2022-06-27,
+ORD_716723,CUST_020,Desserts,Ice Cream,5.0,1.0,5.0,2023-02-19,Credit Card
+ORD_326441,CUST_048,Starters,,7.0,3.0,21.0,2023-03-11,Credit Card
+ORD_210399,CUST_049,Drinks,Coca Cola,2.5,2.0,5.0,2022-06-20,Cash
+ORD_189902,CUST_052,Side Dishes,Side Salad,3.0,5.0,15.0,2023-04-18,Cash
+ORD_671854,CUST_055,Main Dishes,Vegetarian Platter,14.0,4.0,56.0,2023-04-13,Digital Wallet
+ORD_181592,CUST_051,Drinks,Iced Tea,2.5,2.0,5.0,2022-03-23,Cash
+ORD_303135,CUST_079,Main Dishes,Steak,20.0,5.0,100.0,2023-03-19,Digital Wallet
+ORD_808844,CUST_054,Side Dishes,Garlic Bread,4.0,1.0,4.0,2023-06-29,Digital Wallet
+ORD_492853,CUST_089,Desserts,Ice Cream,5.0,4.0,20.0,2022-11-16,Digital Wallet
+ORD_169003,CUST_097,Drinks,Lemonade,3.0,4.0,12.0,2022-02-07,Credit Card
+ORD_851224,CUST_048,Drinks,,1.0,1.0,1.0,2022-04-01,Credit Card
+ORD_437986,CUST_028,Main Dishes,Pasta Alfredo,12.0,5.0,60.0,2022-02-14,Cash
+ORD_997286,CUST_072,Desserts,Ice Cream,5.0,4.0,20.0,2023-01-18,Cash
+ORD_800141,CUST_097,Main Dishes,Pasta Alfredo,12.0,3.0,36.0,2022-08-31,Digital Wallet
+ORD_215360,CUST_081,Starters,French Fries,4.0,5.0,20.0,2023-01-20,Cash
+ORD_467033,CUST_032,Side Dishes,,,,,2023-03-04,Digital Wallet
+ORD_238918,CUST_061,Main Dishes,Pasta Alfredo,12.0,4.0,48.0,2022-11-29,Credit Card
+ORD_216970,CUST_096,Side Dishes,Onion Rings,5.0,2.0,10.0,2023-10-30,Cash
+ORD_825071,CUST_006,Drinks,Coca Cola,2.5,3.0,7.5,2022-07-06,Credit Card
+ORD_927639,CUST_064,Side Dishes,Grilled Vegetables,5.0,1.0,5.0,2023-07-06,Credit Card
+ORD_900637,CUST_088,Starters,Nachos Grande,10.0,1.0,10.0,2023-12-11,Digital Wallet
+ORD_970600,CUST_045,Side Dishes,Garlic Bread,4.0,4.0,16.0,2023-02-18,Credit Card
+ORD_421611,CUST_091,Starters,Cheese Fries,5.0,3.0,15.0,2023-04-15,Cash
+ORD_731287,CUST_092,Main Dishes,Steak,20.0,5.0,100.0,2022-11-28,Digital Wallet
