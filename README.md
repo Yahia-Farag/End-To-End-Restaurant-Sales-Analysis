@@ -1,5 +1,7 @@
 # 🍽️ Restaurant Sales Analytics & Data Cleaning Project
 
+> **📌 Note:** Due to GitHub file size limits, the dataset file (`Restaurant_Sales_Sample.csv`) included in this repository contains a representative sample of 200 rows to ensure seamless browser preview.
+> 
 A professional, end-to-end data auditing, cleaning, and business intelligence project using **T-SQL (SQL Server)** and **Power BI** to transform raw transactional data into actionable insights.
 
 ---
