@@ -4,16 +4,20 @@
 
 A professional, end-to-end data auditing, cleaning, and business intelligence project using **T-SQL (SQL Server)** and **Power BI** to transform raw transactional data into actionable insights.
 
+## 🔗 Live Interactive Dashboard
+
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiOWM4NWI4Y2YtYmM5Ni00NTNlLWFiY2ItNDZhOGE1MzY3ODQwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
 ---
 
 ## 📂 Repository Structure & Project Files
 
 This repository contains all necessary resources to run, review, and interact with the project:
 
-* 📊 **Interactive Power BI Report:** [`Restaurant Sales Analytics.pbix`](./Restaurant%20Sales%20Analytics.pbix) *(Download & open in Power BI Desktop for full interactivity)*
-* 📜 **SQL Cleaning Script:** [`Restaurant_Sales_Cleaned.sql`](./Restaurant_Sales_Cleaned.sql) *(T-SQL script for data auditing, missing value imputations, and cleaning)*
-* 📂 **Sample Dataset:** [`Restaurant_Sales_Sample.csv`](./Restaurant_Sales_Sample.csv) *(Sample transactional dataset)*
-* 🖼️ **Executive Dashboard:** High-resolution preview screenshot included below.
+- 📊 **Interactive Power BI Report:** [`Restaurant Sales Analytics.pbix`](./Restaurant%20Sales%20Analytics.pbix) *(Download & open in Power BI Desktop for full interactivity)*
+- 📜 **SQL Cleaning Script:** [`Restaurant_Sales_Cleaned.sql`](./Restaurant_Sales_Cleaned.sql) *(T-SQL script for data auditing, missing value imputations, and cleaning)*
+- 📂 **Sample Dataset:** [`Restaurant_Sales_Sample.csv`](./Restaurant_Sales_Sample.csv) *(Sample transactional dataset)*
+- 🖼️ **Executive Dashboard:** High-resolution preview screenshot included below.
 
 ---
 
